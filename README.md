@@ -1,4 +1,4 @@
-Box Vagrant CentOS 7 x64 - pt_BR
+# Box Vagrant CentOS 7 x64 - pt_BR
 
 usuário/senha:
 
